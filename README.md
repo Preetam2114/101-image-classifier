@@ -5,7 +5,7 @@
 
 _**note**: use gpu enabled laptops or desktops for training the model or train the model over google ML based cloud system we trained the model on macbook air early 2017 edition it took 12 hrs to train the model_
 
-links for [trined mode](https://drive.google.com/open?id=1jjlNMCbIVqSuvAYYc2TPBFX5pu9DJPFw)
+links for [trained mode](https://drive.google.com/open?id=1jjlNMCbIVqSuvAYYc2TPBFX5pu9DJPFw)
 
 ### To train the model use following code:
     python train.py --dataset dataset --model 101.model \
