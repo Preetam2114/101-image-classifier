@@ -5,7 +5,7 @@
 
 _**note**: use gpu enabled laptops or desktops for training the model or train the model over google ML based cloud system ~~we trained the model on macbook air early 2017 edition it took 12 hrs to train the model~~(not recommended)_
 
-_**make chnages in script as per your system directories**_
+_**make changes in script as per your system directories**_
 
 link for [trained mode](https://drive.google.com/open?id=1jjlNMCbIVqSuvAYYc2TPBFX5pu9DJPFw)
 
