@@ -15,6 +15,9 @@ link for [trained mode](https://drive.google.com/open?id=1jjlNMCbIVqSuvAYYc2TPBF
     
 ### To test the model use following code:
     python classify.py --model 101.model --labelbin mlb.pickle --image examples/pd.jpg
+    
+
+![Certificate](https://drive.google.com/open?id=0B1wwcSV5Gmjfa2xkYV9laTF1Ml9MUmJxM2xoUE04Z2I4dzQw)
   
   
   
