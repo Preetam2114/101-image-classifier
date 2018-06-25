@@ -1,6 +1,6 @@
 # 101-image-classifier
 
-### Add the dataset of folders and images within then in dataset folder
+### Add the dataset of labeled folders with images within then in dataset folder
 ### open terminal and change the directory to the project folder and run the following code
 
 _**note**: use gpu enabled laptops or desktops for training the model or train the model over google ML based cloud system ~~we trained the model on macbook air early 2017 edition it took 12 hrs to train the model~~(not recommended)_
