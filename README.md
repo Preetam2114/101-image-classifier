@@ -19,7 +19,7 @@ link for [trained mode](https://drive.google.com/open?id=1jjlNMCbIVqSuvAYYc2TPBF
 
 ![Certificate](https://github.com/Preetam2114/101-image-classifier/blob/master/plot2.png?raw=true)
 
-![Team](https://drive.google.com/open?id=1LGgA9soYbriq8HzOrlKX2AuYNXKY9baZ)
+![Team](https://doc-10-0g-docs.googleusercontent.com/docs/securesc/7fjahln60ddv9ud2fhk2s79nmq571te8/pf3kee3t2sotpj8pfvkhqhojsu29nant/1530504000000/16733569968194901890/16733569968194901890/1LGgA9soYbriq8HzOrlKX2AuYNXKY9baZ?e=download&nonce=s232n0k267m84&user=16733569968194901890&hash=rdnan2lgh277eobmavrusc6uholkuiha)
   
   
   
