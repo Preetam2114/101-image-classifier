@@ -15,9 +15,6 @@ link for [trained mode](https://drive.google.com/open?id=1jjlNMCbIVqSuvAYYc2TPBF
     
 ### To test the model use following code:
     python classify.py --model 101.model --labelbin mlb.pickle --image examples/pd.jpg
-    
-
-![Train Graph](https://github.com/Preetam2114/101-image-classifier/blob/master/plot2.png?raw=true)
 
   
   
